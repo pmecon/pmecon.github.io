@@ -1,2 +1,4 @@
-	
-submodule.themes/hugo-conference.themes/hugo-conference/
+	[submodule "hugo-conference"]
+	path = themes/hugo-conference
+	url = git://github.com/jweslley/hugo-conference
+
