@@ -1,4 +1,4 @@
-baseurl: "https://polmeth-europe.github.io"
+baseurl: "https://pmecon.github.io"
 title: "PolMeth Europe"
 canonifyurls: true
 theme: "hugo-conference"
